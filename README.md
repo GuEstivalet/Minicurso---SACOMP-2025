@@ -11,7 +11,7 @@ Iremos construir um modelo de Machine Learning que aprende a partir de um conjun
 - **Tipos de Aprendizado:** Foco em Aprendizagem Supervisionada.
 - **Conceitos de PLN:** Glossário de termos como GLN, NLU e seus ramos de aplicação.
 - **Pipeline de Processamento de Texto:**
-    - **Pré-processamento e Limpeza:** Tokenização, remoção de *stopwords*, *stemming* e lematização.
+    - **Pré-processamento e Limpeza:** Tokenização, remoção de *stopwords* e lematização.
     - **Vetorização:** Transformando texto em números com Bag of Words e TF-IDF.
 - **Modelagem e Avaliação:**
     - **Algoritmos Classificadores:** Uma breve introdução aos modelos tradicionais.
@@ -32,7 +32,7 @@ Para a parte prática, usaremos as seguintes ferramentas e bibliotecas em um amb
 
 2.  Uma vez no Colab, certifique-se de que o ambiente de execução está configurado corretamente (`Runtime > Change runtime type > Python 3`).
 
-3.  Execute as células do notebook em ordem, de cima para baixo. Cada célula contém explicações e código para cada etapa da nossa pipeline de PLN.
+3.  Execute as células do notebook em ordem, de cima para baixo. Cada célula contém breves explicações e código para cada etapa da nossa pipeline de PLN.
 
 ### Instrutor
 - Gustavo Ulyssea Estivalet
